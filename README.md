@@ -8,7 +8,7 @@ This is a brief description of your project. Here you can explain what your proj
 
 - Name: Klajdi Gashi
 - Email: klajdi.gashi@student.uni-pr.edu
-- GitHub: [Your GitHub](https://github.com/KlajdiGashi)
+- GitHub: [KlajdiGashi](https://github.com/KlajdiGashi)
 
 ## Installation
 
