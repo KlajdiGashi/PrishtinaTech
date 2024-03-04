@@ -1,0 +1,22 @@
+# Ignore IDE and editor files
+.vscode/
+.idea/
+
+# Ignore dependencies
+/node_modules/
+/bower_components/
+
+# Ignore build output
+/dist/
+/build/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore sensitive or environment-specific information
+.env
+.env.local
+.env.*.local
+.env.*.production
+.env.production.local
